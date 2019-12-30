@@ -1,2 +1,2 @@
-# charlesfleury.github.io
-A bunch of coding projects I did
+# charlesfleury.datascience
+A compilation of data analysis / data science projects I did
