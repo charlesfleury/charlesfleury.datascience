@@ -5,3 +5,7 @@ They are based on guided projects from the dataquest.io Data Scientist Path.
 
 This project uses data collected on the App Store and Google Play app markets to analyze the profitable type of apps on those digital marketplaces.
 In this project, I use data on genre, popularity and number of ratings of apps to build a recommendation for a fictionnal start-up that would like to develop an app on both markets.
+
+2. [Ebay Car Sales Data Exploring]()
+
+This project
