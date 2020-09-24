@@ -13,3 +13,6 @@ This project features data from the german car-selling section of eBay. I use th
 3. [Predicting Car Prices with K-Nearest-Neighbors](https://github.com/charlesfleury/charlesfleury.datascience/blob/master/dataquest_projects/Predicting_Car_Prices_Machine_Learning/predicting_car_prices.ipynb)
 
 In this project, I use data collected on multiple cars and apply a machine learning algorithm, the K-Nearest-Neighbors, to try and predict car prices and at the same time discover which features were the most influent on car prices at the time of data collection. I am using the Sklearn library as well as the more common data science Python libraries.
+
+
+***Les projets et descriptions sont en anglais pour être plus accessibles à tous***
